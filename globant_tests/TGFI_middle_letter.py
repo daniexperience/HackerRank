@@ -7,4 +7,5 @@ def middle_letter(string: str) -> str:
     else:
         return ''
 
-print(middle_letter("abcdefg"))
+print(middle_letter("abcdefg")) # Output: 'd'
+print(middle_letter("abcdef")) # Output: ''

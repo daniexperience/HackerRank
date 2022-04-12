@@ -24,4 +24,4 @@ def capitalize_indexes2(string, a = 'asd'):
     return lista
 
 print(capitalize_indexes1("hEllO"))
-print(capitalize_indexes2("hEllO"))
+print(capitalize_indexes2("hElLO"))
